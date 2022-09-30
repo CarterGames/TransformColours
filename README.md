@@ -2,7 +2,7 @@
 
 
 <b>Transform Colours</b> is a <b>FREE</b> transform component override for Unity.
-> Version 1.2.0
+> Version 1.2.1
 
 ## Key Features
 - Colour coded transform x/y/z
