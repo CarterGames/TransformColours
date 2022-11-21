@@ -2,7 +2,12 @@
 
 
 <b>Transform Colours</b> is a <b>FREE</b> transform component override for Unity.
-> Version 1.2.1
+
+## Badges
+![CodeFactor](https://www.codefactor.io/repository/github/cartergames/TransformColours/badge?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/CarterGames/TransformColours/total?style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/CarterGames/TransformColours?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/CarterGames/TransformColours?style=for-the-badge)
 
 ## Key Features
 - Colour coded transform x/y/z
